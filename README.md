@@ -1,6 +1,6 @@
 # Data Analyst
 
-####Technical Skills: Spreadsheet, SQL, Tableau, Python basics
+#### Technical Skills: Spreadsheet, SQL, Tableau, Python basics
 
 ### Education
 - Bachelor of Pharmacy
